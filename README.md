@@ -8,7 +8,7 @@ and then create an event that would display the results on the screen.
 
 ## Code
 
-The code was taken for the HTML and CSS were taken from the assignment layout, as well as minor starter code from CSS.
+The code for the HTML and CSS were taken from the assignment layout, as well as minor starter code from CSS.
 For some of the code I used in my Javascript (Math.random, prompt, and confirm), I found those through a resources called 
 W3Schools. 
 
