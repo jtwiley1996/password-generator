@@ -34,7 +34,7 @@ if (lowercases) {
 
 }
 
-if (miscSet) {
+if (characters) {
   result = result.concat(miscSet);
 }
 //logs all characters for the random selection//
